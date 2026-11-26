@@ -1,0 +1,18 @@
+obligation_code,obligation_name,category,authority,cycle_days,severity,applies_to
+SMP,Safety Management Plan review,Safety,DGMS,365,5,all
+VENT,Ventilation survey and report,Safety,DGMS,90,5,ug
+SLOPE,Slope and dump stability monitoring study,Safety,DGMS,180,5,oc
+EQPT,Statutory examination of machinery and equipment,Safety,DGMS,180,4,all
+PLAN,Mine plans and sections update,Safety,DGMS,90,3,all
+DRILL,Emergency plan mock rehearsal,Safety,DGMS,180,4,all
+VT,Vocational training coverage return,Labour,DGMS,365,3,all
+PME,Periodic medical examination coverage,Health,DGMS,365,4,all
+RET,Annual return to DGMS,Reporting,DGMS,365,2,all
+EXPL,Explosives licence renewal,Licence,PESO,365,5,all
+EC,Environmental clearance half-yearly compliance report,Environment,MoEFCC,182,3,all
+CTO,Consent to Operate renewal,Environment,State PCB,365,5,all
+ENVS,Annual environmental statement,Environment,State PCB,365,2,all
+HW,Hazardous waste annual return,Environment,State PCB,365,2,all
+GW,Groundwater abstraction NOC renewal,Environment,CGWA,365,3,all
+FC,Forest clearance compliance report,Environment,MoEFCC,365,3,forest
+MCP,Mine closure plan escrow deposit,Finance,Coal Controller,365,4,all

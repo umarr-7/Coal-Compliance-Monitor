@@ -1,0 +1,151 @@
+site_id,site_name,state,operator,mine_type,capacity_mtpa,workforce,age_years,has_forest_land
+CM-001,TS-UG-001,Telangana,Operator E,Underground,1.8,440,31,0
+CM-002,CG-UG-002,Chhattisgarh,Operator D,Underground,0.92,917,28,1
+CM-003,OD-UG-003,Odisha,Operator D,Underground,1.06,1530,28,0
+CM-004,MH-OC-004,Maharashtra,Operator C,Opencast,2.53,951,5,0
+CM-005,CG-OC-005,Chhattisgarh,Operator B,Opencast,2.98,1447,29,1
+CM-006,JH-UG-006,Jharkhand,Operator F,Underground,2.81,493,27,0
+CM-007,MH-UG-007,Maharashtra,Operator B,Underground,2.18,1104,48,0
+CM-008,JH-UG-008,Jharkhand,Operator B,Underground,1.25,501,47,1
+CM-009,WB-OC-009,West Bengal,Operator E,Opencast,0.47,601,35,0
+CM-010,MP-OC-010,Madhya Pradesh,Operator D,Opencast,1.26,1230,4,1
+CM-011,JH-OC-011,Jharkhand,Operator B,Opencast,2.71,800,27,0
+CM-012,MP-UG-012,Madhya Pradesh,Operator C,Underground,2.63,494,26,1
+CM-013,TS-OC-013,Telangana,Operator E,Opencast,1.25,740,56,0
+CM-014,OD-OC-014,Odisha,Operator B,Opencast,1.71,267,20,1
+CM-015,CG-MX-015,Chhattisgarh,Operator F,Mixed,0.88,585,46,0
+CM-016,MH-OC-016,Maharashtra,Operator E,Opencast,0.85,599,18,1
+CM-017,TS-UG-017,Telangana,Operator B,Underground,1.13,308,4,0
+CM-018,TS-UG-018,Telangana,Operator A,Underground,1.5,397,36,1
+CM-019,OD-OC-019,Odisha,Operator C,Opencast,2.42,1768,12,1
+CM-020,MP-UG-020,Madhya Pradesh,Operator C,Underground,3.03,643,22,0
+CM-021,WB-OC-021,West Bengal,Operator E,Opencast,9.0,4223,28,0
+CM-022,MH-OC-022,Maharashtra,Operator F,Opencast,1.31,509,21,1
+CM-023,JH-OC-023,Jharkhand,Operator F,Opencast,0.8,269,40,1
+CM-024,MP-UG-024,Madhya Pradesh,Operator F,Underground,4.0,544,46,1
+CM-025,JH-OC-025,Jharkhand,Operator D,Opencast,0.94,1215,57,0
+CM-026,CG-OC-026,Chhattisgarh,Operator F,Opencast,1.08,960,17,1
+CM-027,MH-UG-027,Maharashtra,Operator F,Underground,6.44,809,15,1
+CM-028,MH-UG-028,Maharashtra,Operator C,Underground,4.42,950,40,0
+CM-029,JH-OC-029,Jharkhand,Operator F,Opencast,6.83,2067,53,1
+CM-030,OD-UG-030,Odisha,Operator A,Underground,0.89,1081,14,0
+CM-031,WB-OC-031,West Bengal,Operator A,Opencast,5.62,776,4,1
+CM-032,MP-UG-032,Madhya Pradesh,Operator E,Underground,0.9,601,36,0
+CM-033,TS-OC-033,Telangana,Operator A,Opencast,2.69,549,58,1
+CM-034,CG-MX-034,Chhattisgarh,Operator D,Mixed,1.04,642,19,0
+CM-035,TS-OC-035,Telangana,Operator A,Opencast,2.19,3329,12,0
+CM-036,MP-OC-036,Madhya Pradesh,Operator D,Opencast,2.35,1515,47,0
+CM-037,WB-OC-037,West Bengal,Operator B,Opencast,0.78,535,9,1
+CM-038,CG-UG-038,Chhattisgarh,Operator B,Underground,10.01,339,28,0
+CM-039,MH-OC-039,Maharashtra,Operator A,Opencast,1.36,902,13,1
+CM-040,TS-MX-040,Telangana,Operator D,Mixed,1.35,678,12,1
+CM-041,MP-OC-041,Madhya Pradesh,Operator A,Opencast,1.17,975,32,1
+CM-042,MP-OC-042,Madhya Pradesh,Operator E,Opencast,1.02,888,52,1
+CM-043,OD-UG-043,Odisha,Operator B,Underground,2.48,465,3,1
+CM-044,CG-UG-044,Chhattisgarh,Operator A,Underground,2.68,258,5,0
+CM-045,OD-UG-045,Odisha,Operator F,Underground,2.25,758,38,1
+CM-046,TS-OC-046,Telangana,Operator F,Opencast,0.23,637,51,0
+CM-047,JH-OC-047,Jharkhand,Operator A,Opencast,2.37,2072,22,1
+CM-048,CG-OC-048,Chhattisgarh,Operator B,Opencast,1.39,1603,42,0
+CM-049,TS-OC-049,Telangana,Operator B,Opencast,7.35,956,14,1
+CM-050,TS-OC-050,Telangana,Operator B,Opencast,0.71,1175,44,0
+CM-051,MH-OC-051,Maharashtra,Operator D,Opencast,7.82,1139,32,1
+CM-052,MH-UG-052,Maharashtra,Operator C,Underground,3.03,483,36,0
+CM-053,TS-OC-053,Telangana,Operator D,Opencast,2.34,1470,3,1
+CM-054,MP-UG-054,Madhya Pradesh,Operator F,Underground,6.64,213,48,0
+CM-055,TS-OC-055,Telangana,Operator A,Opencast,2.45,1221,55,0
+CM-056,TS-UG-056,Telangana,Operator E,Underground,2.26,437,46,1
+CM-057,MH-MX-057,Maharashtra,Operator A,Mixed,0.78,681,10,0
+CM-058,TS-UG-058,Telangana,Operator D,Underground,1.84,1631,30,0
+CM-059,CG-UG-059,Chhattisgarh,Operator A,Underground,1.55,220,30,0
+CM-060,MP-OC-060,Madhya Pradesh,Operator E,Opencast,0.67,281,50,1
+CM-061,WB-UG-061,West Bengal,Operator F,Underground,0.59,183,5,1
+CM-062,MH-OC-062,Maharashtra,Operator D,Opencast,1.07,798,59,1
+CM-063,MH-OC-063,Maharashtra,Operator A,Opencast,1.58,827,49,0
+CM-064,OD-OC-064,Odisha,Operator A,Opencast,3.54,222,3,0
+CM-065,CG-OC-065,Chhattisgarh,Operator F,Opencast,3.32,619,9,0
+CM-066,TS-OC-066,Telangana,Operator C,Opencast,5.38,776,14,0
+CM-067,TS-OC-067,Telangana,Operator E,Opencast,1.37,1190,32,0
+CM-068,MH-UG-068,Maharashtra,Operator A,Underground,1.64,245,5,1
+CM-069,TS-MX-069,Telangana,Operator B,Mixed,1.08,950,17,0
+CM-070,MP-MX-070,Madhya Pradesh,Operator D,Mixed,0.56,1394,20,0
+CM-071,OD-OC-071,Odisha,Operator A,Opencast,2.41,2369,10,1
+CM-072,JH-OC-072,Jharkhand,Operator D,Opencast,2.38,723,27,1
+CM-073,TS-UG-073,Telangana,Operator B,Underground,0.75,558,20,1
+CM-074,CG-UG-074,Chhattisgarh,Operator C,Underground,1.32,619,35,0
+CM-075,OD-OC-075,Odisha,Operator E,Opencast,0.73,737,33,1
+CM-076,CG-UG-076,Chhattisgarh,Operator A,Underground,1.74,663,55,0
+CM-077,WB-OC-077,West Bengal,Operator F,Opencast,2.97,1095,52,1
+CM-078,TS-OC-078,Telangana,Operator C,Opencast,3.85,244,12,1
+CM-079,MP-OC-079,Madhya Pradesh,Operator F,Opencast,3.73,477,41,1
+CM-080,JH-MX-080,Jharkhand,Operator C,Mixed,1.16,971,47,0
+CM-081,MH-OC-081,Maharashtra,Operator D,Opencast,3.43,903,29,1
+CM-082,OD-MX-082,Odisha,Operator F,Mixed,0.9,1638,34,1
+CM-083,TS-OC-083,Telangana,Operator C,Opencast,2.02,858,30,1
+CM-084,WB-MX-084,West Bengal,Operator F,Mixed,0.52,1077,5,1
+CM-085,TS-OC-085,Telangana,Operator C,Opencast,0.47,447,51,0
+CM-086,MP-UG-086,Madhya Pradesh,Operator D,Underground,0.81,1123,6,1
+CM-087,CG-UG-087,Chhattisgarh,Operator C,Underground,9.28,697,27,0
+CM-088,MH-OC-088,Maharashtra,Operator D,Opencast,1.21,431,31,1
+CM-089,MP-OC-089,Madhya Pradesh,Operator D,Opencast,3.74,1145,17,0
+CM-090,JH-OC-090,Jharkhand,Operator A,Opencast,1.73,860,37,0
+CM-091,MP-UG-091,Madhya Pradesh,Operator F,Underground,4.94,631,40,0
+CM-092,MH-UG-092,Maharashtra,Operator C,Underground,3.23,2436,52,1
+CM-093,MH-MX-093,Maharashtra,Operator D,Mixed,0.69,853,49,0
+CM-094,TS-OC-094,Telangana,Operator B,Opencast,1.3,537,5,0
+CM-095,CG-OC-095,Chhattisgarh,Operator F,Opencast,1.15,1579,15,0
+CM-096,WB-UG-096,West Bengal,Operator B,Underground,0.47,1015,5,1
+CM-097,TS-UG-097,Telangana,Operator E,Underground,0.96,340,25,1
+CM-098,TS-UG-098,Telangana,Operator B,Underground,1.87,863,51,0
+CM-099,TS-UG-099,Telangana,Operator C,Underground,5.42,393,26,1
+CM-100,TS-OC-100,Telangana,Operator E,Opencast,1.42,619,36,0
+CM-101,MP-OC-101,Madhya Pradesh,Operator A,Opencast,0.55,1118,33,1
+CM-102,MH-OC-102,Maharashtra,Operator A,Opencast,0.46,811,35,0
+CM-103,CG-OC-103,Chhattisgarh,Operator A,Opencast,0.75,1045,34,1
+CM-104,JH-OC-104,Jharkhand,Operator C,Opencast,0.47,727,26,1
+CM-105,CG-OC-105,Chhattisgarh,Operator F,Opencast,0.5,981,20,0
+CM-106,WB-UG-106,West Bengal,Operator A,Underground,0.64,1213,20,1
+CM-107,JH-UG-107,Jharkhand,Operator D,Underground,1.59,1199,52,0
+CM-108,WB-UG-108,West Bengal,Operator E,Underground,1.29,551,54,0
+CM-109,CG-MX-109,Chhattisgarh,Operator D,Mixed,2.34,634,10,0
+CM-110,JH-OC-110,Jharkhand,Operator A,Opencast,0.84,424,17,1
+CM-111,JH-OC-111,Jharkhand,Operator A,Opencast,1.74,1379,54,1
+CM-112,MP-OC-112,Madhya Pradesh,Operator B,Opencast,1.8,1119,26,0
+CM-113,JH-OC-113,Jharkhand,Operator D,Opencast,0.52,1109,34,0
+CM-114,TS-OC-114,Telangana,Operator D,Opencast,0.55,422,16,1
+CM-115,OD-OC-115,Odisha,Operator F,Opencast,0.74,961,13,1
+CM-116,OD-MX-116,Odisha,Operator A,Mixed,3.39,1192,3,1
+CM-117,WB-UG-117,West Bengal,Operator B,Underground,0.81,240,31,0
+CM-118,JH-OC-118,Jharkhand,Operator F,Opencast,0.89,740,47,0
+CM-119,MH-MX-119,Maharashtra,Operator D,Mixed,4.52,423,11,0
+CM-120,CG-OC-120,Chhattisgarh,Operator D,Opencast,3.29,1077,26,1
+CM-121,CG-OC-121,Chhattisgarh,Operator A,Opencast,0.65,2016,20,1
+CM-122,TS-UG-122,Telangana,Operator B,Underground,2.14,381,10,1
+CM-123,JH-OC-123,Jharkhand,Operator F,Opencast,1.71,2161,35,1
+CM-124,MP-UG-124,Madhya Pradesh,Operator C,Underground,0.77,671,33,1
+CM-125,JH-UG-125,Jharkhand,Operator B,Underground,0.44,682,5,1
+CM-126,MP-OC-126,Madhya Pradesh,Operator D,Opencast,0.77,903,37,0
+CM-127,TS-UG-127,Telangana,Operator D,Underground,0.67,607,55,1
+CM-128,WB-OC-128,West Bengal,Operator C,Opencast,1.1,886,26,1
+CM-129,WB-MX-129,West Bengal,Operator A,Mixed,1.24,1741,55,0
+CM-130,MH-OC-130,Maharashtra,Operator F,Opencast,1.87,748,44,1
+CM-131,MP-UG-131,Madhya Pradesh,Operator E,Underground,6.35,373,47,0
+CM-132,MH-OC-132,Maharashtra,Operator A,Opencast,7.92,600,14,0
+CM-133,TS-UG-133,Telangana,Operator E,Underground,2.02,915,22,0
+CM-134,MP-UG-134,Madhya Pradesh,Operator D,Underground,1.23,1267,56,1
+CM-135,TS-OC-135,Telangana,Operator A,Opencast,2.56,229,4,1
+CM-136,MH-UG-136,Maharashtra,Operator D,Underground,1.05,1210,53,1
+CM-137,JH-OC-137,Jharkhand,Operator C,Opencast,2.28,401,8,0
+CM-138,MH-OC-138,Maharashtra,Operator B,Opencast,1.53,690,17,0
+CM-139,JH-MX-139,Jharkhand,Operator F,Mixed,0.71,381,26,1
+CM-140,JH-OC-140,Jharkhand,Operator E,Opencast,0.94,526,51,1
+CM-141,WB-UG-141,West Bengal,Operator A,Underground,1.06,438,45,1
+CM-142,CG-UG-142,Chhattisgarh,Operator A,Underground,6.49,506,47,1
+CM-143,TS-OC-143,Telangana,Operator A,Opencast,0.77,468,40,1
+CM-144,CG-UG-144,Chhattisgarh,Operator A,Underground,5.75,1009,51,1
+CM-145,CG-MX-145,Chhattisgarh,Operator A,Mixed,2.0,521,21,1
+CM-146,WB-OC-146,West Bengal,Operator E,Opencast,1.94,737,27,0
+CM-147,TS-OC-147,Telangana,Operator F,Opencast,2.92,368,12,1
+CM-148,OD-MX-148,Odisha,Operator A,Mixed,2.7,1510,21,1
+CM-149,MP-MX-149,Madhya Pradesh,Operator B,Mixed,2.48,82,24,1
+CM-150,WB-OC-150,West Bengal,Operator D,Opencast,5.45,549,5,0
